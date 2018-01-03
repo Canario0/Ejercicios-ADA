@@ -1,4 +1,4 @@
-# author
+
 sol_g=0
 num_sols=0
 is_sol_g=False #I only want to know if there is or there isn't solution, so I decided to leave is_sol as a global var 
